@@ -1,0 +1,17 @@
+<style>
+h3 {
+	color:black;
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+body {
+	background-color: white;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+</style>
